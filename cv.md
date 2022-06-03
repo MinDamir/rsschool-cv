@@ -10,7 +10,7 @@ I am 12 years old. I am good at English and Math. At school I learn JavaScript a
 ## Skills
 * JavaScript(Basic)
 ## Code Example
-```
+```java
 function sum(a, b) {
   return a + b;
 }
