@@ -14,7 +14,6 @@ I am 12 years old. I am good at English and Math. At school I learn JavaScript a
 function sum(a, b) {
   return a + b;
 }
-
 let result = sum(1, 2);
 alert( result );
 ```
